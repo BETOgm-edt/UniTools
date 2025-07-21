@@ -1,3 +1,4 @@
+// ...existing code...
 export default function IaPage() {
   return (
     <main style={{ padding: '2rem' }}>
